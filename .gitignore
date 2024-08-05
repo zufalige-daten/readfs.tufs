@@ -1,0 +1,9 @@
+﻿*.o
+*.elf
+bin/readfs.tufs
+Session.vim
+compiler_flags.txt
+github-copy.sh
+*.img
+*.iso
+
